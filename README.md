@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Vaibhav
 
-<!--
-**BLACK-KING369/BLACK-KING369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE Student
+🤖 Building AvanAI — my personal AI assistant
+🚀 Exploring AI, Python, C++, DSA & Full-Stack Development
+🛠️ Building projects and learning by doing
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AvanAI
+Personal AI assistant with voice interaction,
+computer control, memory and AI capabilities.
+
+### 🔐 Black Security
+AI-based identity and document screening project
+built for hackathon/SIH work.
+
+### 🅿️ AvanParking
+Parking aggregation platform for finding and
+booking available parking spaces.
+
+## 🧰 Tech Stack
+
+Python • C++ • JavaScript • HTML • CSS
+Git • GitHub • VS Code
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- AI & Machine Learning
+- Backend Development
+- System Automation
+
+## 🎯 Goal
+
+Build useful software, learn continuously,
+and turn ideas into real products.
+
+---
+
+⭐ Thanks for visiting my profile!
